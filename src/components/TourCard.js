@@ -6,10 +6,7 @@ const TourCard = () => {
     <Grid item xs={3}>
       <Paper elevation={3}>
         <img src="" alt="" />
-<<<<<<< HEAD
         <div> revert test</div>
-=======
->>>>>>> parent of 7ba6a39 (add div in tourcard)
       </Paper>
     </Grid>
   );
