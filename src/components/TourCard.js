@@ -6,7 +6,6 @@ const TourCard = () => {
     <Grid item xs={3}>
       <Paper elevation={3}>
         <img src="" alt="" />
-        <div>revert test</div>
       </Paper>
     </Grid>
   );
